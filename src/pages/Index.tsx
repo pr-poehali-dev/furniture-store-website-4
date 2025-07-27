@@ -46,9 +46,13 @@ const Index = () => {
       <header className="bg-white shadow-sm border-b border-warm-200">
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
-            <div className="flex items-center space-x-2">
-              <Icon name="Home" className="text-primary" size={32} />
-              <h1 className="text-2xl font-bold text-warm-800">Мебель Дом</h1>
+            <div className="flex items-center space-x-3">
+              <img 
+                src="https://cdn.poehali.dev/files/979844fc-6790-4e70-8f15-4da7cbee360a.jpg" 
+                alt="Мебель у Натальи" 
+                className="h-12 w-auto"
+              />
+              <h1 className="text-2xl font-bold text-warm-800">Мебель у Натальи</h1>
             </div>
             <nav className="hidden md:flex space-x-6">
               <a href="#catalog" className="text-warm-700 hover:text-primary transition-colors">Каталог</a>
@@ -272,7 +276,7 @@ const Index = () => {
         <div className="container mx-auto px-4">
           <div className="grid md:grid-cols-4 gap-8">
             <div>
-              <h4 className="font-bold text-lg mb-4">Мебель Дом</h4>
+              <h4 className="font-bold text-lg mb-4">Мебель у Натальи</h4>
               <p className="text-warm-300 mb-4">Создаем уют в каждом доме уже более 10 лет</p>
               <div className="flex space-x-4">
                 <Icon name="Phone" size={20} />
@@ -301,7 +305,7 @@ const Index = () => {
               <h5 className="font-semibold mb-4">Контакты</h5>
               <div className="space-y-2 text-warm-300">
                 <p>г. Москва, ул. Примерная, 123</p>
-                <p>info@mebel-dom.ru</p>
+                <p>info@mebel-natalya.ru</p>
                 <p>Ежедневно 9:00 - 21:00</p>
               </div>
             </div>
