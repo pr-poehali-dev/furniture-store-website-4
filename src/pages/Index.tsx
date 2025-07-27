@@ -280,7 +280,7 @@ const Index = () => {
               <p className="text-warm-300 mb-4">Создаем уют в каждом доме уже более 10 лет</p>
               <div className="flex space-x-4">
                 <Icon name="Phone" size={20} />
-                <span>+7 (4872) 123-45-67</span>
+                <span>+7 (905) 626-34-64</span>
               </div>
             </div>
             <div>
