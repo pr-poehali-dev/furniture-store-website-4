@@ -280,7 +280,7 @@ const Index = () => {
               <p className="text-warm-300 mb-4">Создаем уют в каждом доме уже более 10 лет</p>
               <div className="flex space-x-4">
                 <Icon name="Phone" size={20} />
-                <span>+7 (800) 123-45-67</span>
+                <span>+7 (4872) 123-45-67</span>
               </div>
             </div>
             <div>
@@ -304,7 +304,7 @@ const Index = () => {
             <div>
               <h5 className="font-semibold mb-4">Контакты</h5>
               <div className="space-y-2 text-warm-300">
-                <p>г. Москва, ул. Примерная, 123</p>
+                <p>г. Тула, ул. Демидовская, 179</p>
                 <p>natasha.mebel@mail.ru</p>
                 <p>Ежедневно 9:00 - 21:00</p>
               </div>
