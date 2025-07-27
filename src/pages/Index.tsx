@@ -305,7 +305,7 @@ const Index = () => {
               <h5 className="font-semibold mb-4">Контакты</h5>
               <div className="space-y-2 text-warm-300">
                 <p>г. Москва, ул. Примерная, 123</p>
-                <p>info@mebel-natalya.ru</p>
+                <p>natasha.mebel@mail.ru</p>
                 <p>Ежедневно 9:00 - 21:00</p>
               </div>
             </div>
